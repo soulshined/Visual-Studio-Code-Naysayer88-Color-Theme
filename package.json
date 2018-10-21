@@ -1,0 +1,260 @@
+{
+    "name": "naysayer88",
+    "displayName": "Naysayer88",
+    "description": "A color theme in honor of and inspired by Jonathan Blow's emac UI. ",
+    "version": "1.0.0",
+    "homepage": "",
+    "author" : {
+        "name": "David Freer",
+        "email": "davidfreer@me.com",
+        "url": "https://www.davidfreer.me"
+    },
+    "publisher": "FreerTech",
+    "keywords": [
+        "naysayer88",
+        "jon blow",
+        "jonathan blow",
+        "naysayer"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "configurationDefaults": {
+            "[batch]" : {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[c]" : {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[csharp]" : {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[cpp]" : {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[css]" : {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[clojure]" : {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[coffeescript]" : {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[diff]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[dockerfile]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[fsharp]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[git-commit]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[git-rebase]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[go]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[groovy]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[hlsl]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[html]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[handlebars]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[ignore]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[ini]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[json]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[jsonc]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[java]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[javascript]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[javascriptreact]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[less]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[lua]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[makefile]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[markdown]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[objective-c]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[objective-cpp]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[php]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[perl]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[perl6]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[plaintext]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[powershell]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[properties]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[jade]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[python]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[r]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[razor]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[ruby]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[rust]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[scss]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[sql]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[shaderlab]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[shellscript]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[swift]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[todo]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[typescript]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[typescriptreact]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[vb]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[xml]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[xsl]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[yaml]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            },
+            "[log]": {
+                "editor.lineNumbers": "off",
+                "editor.cursorStyle": "block"
+            }
+        },
+        "themes": [
+            {
+                "label": "Naysayer88",
+                "uiTheme": "hc-black",
+                "path": "./themes/Naysayer88-color-theme.json"
+            }
+        ]
+    }
+}
