@@ -25,7 +25,7 @@ I have added these configurations to the most commonly used languages for you, b
 
 ### The final result:
 
-![Screenshot](https://github.com/soulshined/Visual-Studio-Code-Naysayer88-Color-Theme/blob/master/images/ui.PNG)
+![Screenshot](https://i.imgur.com/U3skB7h.png)
 
 
 **Enjoy!**
