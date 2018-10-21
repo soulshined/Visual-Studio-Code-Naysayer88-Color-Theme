@@ -2,9 +2,9 @@
     "name": "naysayer88",
     "displayName": "Naysayer88",
     "description": "A color theme in honor of and inspired by Jonathan Blow's emac UI. ",
-    "version": "1.0.0",
-    "homepage": "",
-    "author" : {
+    "version": "1.0.3",
+    "homepage": "https://github.com/soulshined/Visual-Studio-Code-Naysayer88-Color-Theme",
+    "author": {
         "name": "David Freer",
         "email": "davidfreer@me.com",
         "url": "https://www.davidfreer.me"
@@ -18,41 +18,41 @@
     ],
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/soulshined/Visual-Studio-Code-Naysayer88-Color-Theme"
     },
     "engines": {
-        "vscode": "^1.28.0"
+        "vscode": "^1.26.0"
     },
     "categories": [
         "Themes"
     ],
     "contributes": {
         "configurationDefaults": {
-            "[batch]" : {
+            "[batch]": {
                 "editor.lineNumbers": "off",
                 "editor.cursorStyle": "block"
             },
-            "[c]" : {
+            "[c]": {
                 "editor.lineNumbers": "off",
                 "editor.cursorStyle": "block"
             },
-            "[csharp]" : {
+            "[csharp]": {
                 "editor.lineNumbers": "off",
                 "editor.cursorStyle": "block"
             },
-            "[cpp]" : {
+            "[cpp]": {
                 "editor.lineNumbers": "off",
                 "editor.cursorStyle": "block"
             },
-            "[css]" : {
+            "[css]": {
                 "editor.lineNumbers": "off",
                 "editor.cursorStyle": "block"
             },
-            "[clojure]" : {
+            "[clojure]": {
                 "editor.lineNumbers": "off",
                 "editor.cursorStyle": "block"
             },
-            "[coffeescript]" : {
+            "[coffeescript]": {
                 "editor.lineNumbers": "off",
                 "editor.cursorStyle": "block"
             },
