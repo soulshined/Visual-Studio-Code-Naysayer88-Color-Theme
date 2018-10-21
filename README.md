@@ -12,10 +12,8 @@ In order to get the real feel of how Jonathan Blow uses his editor, I recommend 
 
 ```json
   {
-    ...
     "editor.lineNumbers": "off",
     "editor.cursorStyle": "block",
-    ...
   }
 ```
 
