@@ -2,14 +2,14 @@
     "name": "naysayer88",
     "displayName": "Naysayer88",
     "description": "A color theme in honor of and inspired by Jonathan Blow's emac UI. ",
-    "version": "1.0.4",
+    "version": "1.0.0",
     "homepage": "https://github.com/soulshined/Visual-Studio-Code-Naysayer88-Color-Theme",
     "author": {
         "name": "David Freer",
         "email": "davidfreer@me.com",
         "url": "https://www.davidfreer.me"
     },
-    "publisher": "FreerTech",
+    "publisher": "David Freer",
     "keywords": [
         "naysayer88",
         "jon blow",
