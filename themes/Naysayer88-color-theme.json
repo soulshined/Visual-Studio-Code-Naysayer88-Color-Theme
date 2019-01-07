@@ -67,8 +67,7 @@
 			"name": "invalid",
 			"scope": "invalid.illegal",
 			"settings": {
-				"foreground": "#FF0000",
-				"fontStyle": "bold"
+				"foreground": "#FF0000"
 			}
 		},
 		{
