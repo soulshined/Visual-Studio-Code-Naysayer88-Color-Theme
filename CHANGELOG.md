@@ -1,5 +1,10 @@
 # Change Log
 
+## v1.1.1
+> fixes for [#1](https://github.com/soulshined/Visual-Studio-Code-Naysayer88-Color-Theme/issues/1)
+
+- Set font color for font name
+
 ## v1.1.0
 > minor appearance updates for peek view and group tabs. unfortunetly the new activity bar configs don't work with hc-dark themes
 
