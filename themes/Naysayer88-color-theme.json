@@ -80,6 +80,7 @@
         "sideBarSectionHeader.foreground": "#000000",
         "peekViewEditor.matchHighlightBackground": "#63878a8e",
         "statusBar.background": "#B59E7A",
+        "statusBar.noFolderBackground": "#B59E7A",
         "statusBar.foreground": "#000",
         "statusBar.border": "#B59E7A",
     },

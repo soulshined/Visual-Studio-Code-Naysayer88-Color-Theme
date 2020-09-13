@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.1.2
+
+- Minor tweak to make the statusbar background the same color for non-workspace windows
+
 ## v1.1.1
 > fixes for [#1](https://github.com/soulshined/Visual-Studio-Code-Naysayer88-Color-Theme/issues/1)
 
