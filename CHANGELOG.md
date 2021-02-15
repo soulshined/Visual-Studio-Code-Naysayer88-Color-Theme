@@ -1,5 +1,17 @@
 # Change Log
 
+## v1.1.3
+
+- Set `#0000FF` (default selection color) to `editor.rangeHighlightBackground` to enable line highlighting for when symbol matches are searched for.
+
+To customize this if you do not like the change, you can add the following to your settings file:
+
+```
+"workbench.colorCustomizations": {
+    "editor.rangeHighlightBackground": "#<color>"
+}
+```
+
 ## v1.1.2
 
 - Minor tweak to make the statusbar background the same color for non-workspace windows

@@ -73,6 +73,7 @@
         "editor.selectionForeground": "#FFFFFF",
         "editor.selectionHighlightBackground": "#63878a8e",
         "editor.findMatchHighlightBackground": "#63878a8e",
+        "editor.rangeHighlightBackground" : "#0000FF",
         "editorLineNumber.activeForeground": "#b59E7A",
         "editorLineNumber.foreground": "#b59e7a65",
         "focusBorder": "#FFFFFF00",
