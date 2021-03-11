@@ -1,5 +1,10 @@
 # Change Log
 
+
+## v1.1.4
+
+- Add focus color for `quickInput.list.focusBackground` due to vscode breaking it with latest update
+
 ## v1.1.3
 
 - Set `#0000FF` (default selection color) to `editor.rangeHighlightBackground` to enable line highlighting for when symbol matches are searched for.
