@@ -45,6 +45,8 @@
         "panelTitle.activeForeground": "#bdb395",
         "panelTitle.inactiveForeground": "#ccc",
         "panel.dropBackground": "#63878a1a",
+        "quickInput.list.focusBackground": "#b59e7aa4",
+        "panelSection.dropBackground": "#63878a1a",
         "sideBar.dropBackground": "#63878a1a",
         "editorGroup.dropBackground": "#63878a1a",
         "list.dropBackground": "#63878a1a",
