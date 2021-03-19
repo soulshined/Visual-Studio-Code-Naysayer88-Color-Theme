@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.1.5
+
+- VSCode decided to change the quick input highlighting behavior once again from vscode v1.54.2's change. It has now been moved to `quickInputList.focusBackground` for 1.54.3.
+Left all the other implementations for legacy purposes
 
 ## v1.1.4
 
