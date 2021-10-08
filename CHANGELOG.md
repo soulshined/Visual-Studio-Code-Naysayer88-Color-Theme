@@ -1,5 +1,11 @@
 # Change Log
 
+## v1.1.6
+
+- Update for vscode's new native bracket matcher guidelines
+    - if you enbaled bracket matching, it will default to the 'biege/tan' theme instead of the rainbow colors
+    - you can always edit in your own settings file
+
 ## v1.1.5
 
 - VSCode decided to change the quick input highlighting behavior once again from vscode v1.54.2's change. It has now been moved to `quickInputList.focusBackground` for 1.54.3.

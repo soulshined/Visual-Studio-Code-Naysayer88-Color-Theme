@@ -87,6 +87,15 @@
         "statusBar.noFolderBackground": "#B59E7A",
         "statusBar.foreground": "#000",
         "statusBar.border": "#B59E7A",
+        "editorBracketHighlight.foreground1": "#B59E7A",
+        "editorBracketHighlight.foreground2": "#B59E7A",
+        "editorBracketHighlight.foreground3": "#B59E7A",
+        "editorBracketHighlight.foreground4": "#B59E7A",
+        "editorBracketHighlight.foreground5": "#B59E7A",
+        "editorBracketHighlight.foreground6": "#B59E7A",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
+        "editorBracketMatch.background": "#B59E7A00",
+        "editorBracketMatch.border": "#B59E7A"
     },
     "tokenColors": [
         {
